@@ -1,0 +1,78 @@
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    position: relative;
+    margin-top: -60px;
+}
+
+#editar{
+    background: white;
+    color: #213a79 0% 0%;
+    border: #213a79 0% 0%;
+    border-radius: 5px;
+    text-align: center;
+    height: 35px;
+    width: 215px;
+    margin-left: 345px;
+    margin-right: auto;
+    margin-top: 19px;
+}
+
+#investigador{
+    border-radius: 100%;
+    width: 170px;
+    height: 165px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-top: -30px;
+}
+
+#part{
+    background: #213a79 0% 0%;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    height: 35px;
+    width: 215px;
+    margin-left: 35px;
+    margin-right: auto;
+    margin-top: 19px;
+}
+
+#participante{
+    margin-left: 10px;
+    border-radius: 100%;
+    width: 100px;
+    height: 95px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+#portada{
+    width: 1503px;
+    height: 415px;
+    align-self: center;
+}
+
+#proyecto{
+    margin-left: 35px;
+}
+
+.letragrande{
+    font-size: 3em;
+}
+
+.letramediana{
+    font-size: 2em;
+}
+
+.letraproyec{
+    font-size: 1.1em;
+}
+
+.letrasombra{
+    color: #222121d3;
+}
+
+.nito{
+	font-weight: bold;
+}

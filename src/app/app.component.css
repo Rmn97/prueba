@@ -1,0 +1,54 @@
+div{
+    /*border: 2px solid green;*/
+    margin-left: 945px;
+}
+div img{
+    margin-top: 15px;
+}
+
+div li{
+    /*border: 2px solid red;*/
+    margin-right: 35px;
+}
+
+header{
+    box-shadow: 0px 3px 6px #00000029;
+    /*margin-left: 63px;
+    width: 1360px;*/
+    display: flex;
+    flex-direction: row;
+    height: 75px;
+    padding-top: 10px;
+    background-color: #f0f0f0ad;
+}
+
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    /*border: 2px solid blue;*/
+}
+
+#cont{
+    width: 42px;
+    height: 42px;
+}
+
+#instec{
+    margin-left: 24px;
+    color: #2a4894 0% 0%;
+    margin-top: 15px;
+}
+
+#tec{
+    margin-left: 25px;
+    width: 62px;
+    height: 62px;
+}
+
+.letra{
+    font-size: 1.1em;
+}
+
+.nito{
+    font-weight: bold;
+}

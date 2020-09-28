@@ -3,10 +3,16 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ChatComponent } from './components/chat/chat.component';
+import { InicioComponent } from './components/inicio/inicio.component';
+import { NoPageFoundComponent } from './components/no-page-found/no-page-found.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ChatComponent,
+    InicioComponent,
+    NoPageFoundComponent
   ],
   imports: [
     BrowserModule,
