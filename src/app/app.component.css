@@ -13,24 +13,21 @@ div li{
 
 header{
     box-shadow: 0px 3px 6px #00000029;
-    /*margin-left: 63px;
-    width: 1360px;*/
+    /*margin-left: 63px;*/
+    width: 1503px;
     display: flex;
     flex-direction: row;
     height: 75px;
     padding-top: 10px;
-    background-color: #f0f0f0ad;
+    background-color: #f0f0f0bb;
+    position: fixed;
 }
 
 ul{
     display: inline-flex;
     list-style-type: none;
     /*border: 2px solid blue;*/
-}
-
-#cont{
-    width: 42px;
-    height: 42px;
+    padding-left: 15px;
 }
 
 #instec{

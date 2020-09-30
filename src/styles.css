@@ -2,3 +2,23 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+  
+  /* Track */
+::-webkit-scrollbar-track {
+    background-color: #f0f0f0ad;
+}
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #4c6bb9;
+    box-shadow: 0px 3px 6px #00000029; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #213a79;
+  }

@@ -7,12 +7,13 @@ import { ChatComponent } from './components/chat/chat.component';
 import { InicioComponent } from './components/inicio/inicio.component';
 import { NoPageFoundComponent } from './components/no-page-found/no-page-found.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     ChatComponent,
     InicioComponent,
-    NoPageFoundComponent
+    NoPageFoundComponent,
   ],
   imports: [
     BrowserModule,

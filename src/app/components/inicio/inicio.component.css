@@ -1,7 +1,12 @@
+div{
+    margin-left: 945px;
+    margin-top: -5px;
+}
+
 ul{
     display: inline-flex;
     list-style-type: none;
-    position: relative;
+    /*position: absolute;*/
     margin-top: -60px;
 }
 
@@ -13,9 +18,12 @@ ul{
     text-align: center;
     height: 35px;
     width: 215px;
-    margin-left: 345px;
     margin-right: auto;
     margin-top: 19px;
+}
+
+#fecha{
+    margin-left: 35px;
 }
 
 #investigador{
